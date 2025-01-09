@@ -1,5 +1,5 @@
 # Git Demo Repo 
-This is a Sample a repository \ Sample app for the Git course.
+This is a Sample a repository in the main branch.
  
 ## Roadmap
 *Add new features

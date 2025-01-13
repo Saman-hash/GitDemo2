@@ -8,4 +8,4 @@ This is the changes in the conflict1 and main branch.
 *Fix the bugs
 
 
-fdsfshjkfhdskj
+new change bij de visual studio 

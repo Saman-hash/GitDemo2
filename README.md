@@ -1,5 +1,7 @@
 # Git Demo Repo 
-This is the changes in the conflict2 branch.
+
+This is the changes in the both branches conflict2 and main.
+ 
 
  
 ## Roadmap
